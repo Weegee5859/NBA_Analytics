@@ -1,0 +1,4 @@
+beautifulsoup4==4.11.2
+dash==2.11.1
+plotly==5.15.0
+Requests==2.31.0
